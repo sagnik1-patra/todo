@@ -11,6 +11,7 @@ Usage
 5.To delete a task, click the "Delete" button.
 
 6.To log out, click the "Logout" button.
+
 Features
 
 1.Create tasks with various details like time limit, due date, and priority.
